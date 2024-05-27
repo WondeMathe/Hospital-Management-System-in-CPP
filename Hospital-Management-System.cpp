@@ -414,11 +414,11 @@ void displayDoctorsInfo(){
 
 void AboutUs(){
     cout << "\t\t---------------------------------------\n";
-    cout << "\t\t\tYMY Hospital - Healthy Community\n";
+    cout << "\t\t\tWM Hospital - Healthy Community\n";
     cout << "\t\t----------------------------------------\n";
     cout << "\t\tAddress: Addis Ababa, Ethiopia" <<endl;
-    cout << "\t\tWebsite: www.ymyhospital.com" <<endl;
-    cout << "\t\tCall: +251983818106, +251946157252, +251944648169";
+    cout << "\t\tWebsite: www.wmhospital.com" <<endl;
+    cout << "\t\tCall: +251983818806, +251946158852, +251944648869";
     askResponse();
 }
 
