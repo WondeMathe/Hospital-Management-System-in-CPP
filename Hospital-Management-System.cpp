@@ -3,6 +3,7 @@
 #include<windows.h>
 using namespace std;
 
+
 struct PatientProfile {
     int card_number;
     char firstName[35];
