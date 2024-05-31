@@ -132,7 +132,6 @@ void displayMenu(){
     cout <<"\t\t9. Exit.";
 }
 
-
 void patientRegistretion(char fileName[],int count_patient){
 
     file.open(fileName, ios::out| ios::binary| ios::app);
